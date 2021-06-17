@@ -80,6 +80,20 @@
   </url>
   
   <url>
+    <loc>/docs/email-style-guide/email-image-guidelines/</loc>
+    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/docs/email-style-guide/email-examples/</loc>
+    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2021-02-23T16:32:27+00:00</lastmod>
     <changefreq>weekly</changefreq>
