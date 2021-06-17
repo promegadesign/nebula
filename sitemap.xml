@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/docs/email-style-guide/best-practices/</loc>
+    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/docs/components/buttons/</loc>
     <lastmod>2021-02-23T16:32:27+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -24,6 +31,13 @@
   </url>
   
   <url>
+    <loc>/docs/email-style-guide/anatomy-of-an-email/</loc>
+    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/docs/foundations/color/</loc>
     <lastmod>2021-02-23T16:32:27+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -40,6 +54,13 @@
   <url>
     <loc>/docs/prologue/release-notes/</loc>
     <lastmod>2020-10-06T08:48:57+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/docs/email-style-guide/email-styles/</loc>
+    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
