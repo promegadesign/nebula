@@ -4,112 +4,105 @@
   
   <url>
     <loc>/docs/email-style-guide/best-practices/</loc>
-    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/components/buttons/</loc>
-    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/prologue/introduction/</loc>
-    <lastmod>2020-10-06T08:48:57+00:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/getting-started/browser-info/</loc>
-    <lastmod>2020-10-06T08:48:57+00:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/email-style-guide/anatomy-of-an-email/</loc>
-    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/foundations/color/</loc>
-    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/docs/foundations/typography/</loc>
-    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/prologue/release-notes/</loc>
-    <lastmod>2020-10-06T08:48:57+00:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/docs/foundations/typography/</loc>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/email-style-guide/email-styles/</loc>
-    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/prologue/contact-us/</loc>
-    <lastmod>2020-11-12T13:26:54+01:00</lastmod>
+    <lastmod>2021-07-09T10:46:07-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/getting-started/resources/</loc>
-    <lastmod>2020-11-12T13:26:54+01:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/email-style-guide/email-image-guidelines/</loc>
-    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/email-style-guide/email-examples/</loc>
-    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-02-23T16:32:27+00:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/prologue/</loc>
-    <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/docs/components/</loc>
-    <lastmod>2020-10-06T08:48:23+00:00</lastmod>
+    <lastmod>2021-07-09T10:47:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -123,6 +116,13 @@
   
   <url>
     <loc>/contributors/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-04-20T10:53:24-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
